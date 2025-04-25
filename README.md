@@ -1,5 +1,15 @@
 # Blog-PHP
 
+## A web-based blogging platform where users can register, log in securely, post blogs, and manage their profiles. It features commenting and replying for all visitors, plus options to update email/password and log out.
+
+### Key Features:
+
+#### Secure registration and login with credential validation
+#### Blog posting for authenticated users
+#### Open commenting and replying system
+#### Profile updates (email, password)
+#### Logout functionality
+
 ### Register Page
 
 ![register](https://github.com/user-attachments/assets/ecc774f2-51fb-42f7-839f-ccadbc5ba8af)
